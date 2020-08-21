@@ -31,7 +31,7 @@ namespace matiz_1
                 Console.WriteLine("");
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
